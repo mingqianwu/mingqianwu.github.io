@@ -5,7 +5,7 @@ My name is Mingqian Wu. I'm currently a senior in University of Illinois at Urba
 
 For more information, you can either see my [resume]({{ mingqianwu.github.io }}/Resume%20for%20work.pdf) or visit my [Linkedin page](https://www.linkedin.com/in/mingqian-wu-65718b14b).
 
-My Gihub page link is here.
+My Gihub page link is [here](https://github.com/mingqianwu).
 
 ### Markdown
 
