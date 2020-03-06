@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+[[https://github.com/mingqianwu/mingqianwu.github.io/Professional Picture.jpg|alt=octocat]]
 
 You can use the [editor on GitHub](https://github.com/mingqianwu/mingqianwu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
