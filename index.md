@@ -1,9 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Page
 ![useful image]({{ mingqianwu.github.io }}/ProfessionalPicture.jpg){:height="280px" width="210px"}
 
-You can use the [editor on GitHub](https://github.com/mingqianwu/mingqianwu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Mingqian Wu. I'm currently a senior in University of Illinois at Urbana-Champaign. My major is Industrial Engineering and I also have a minor in Statistics. I'm planning to study Quantitative Finance in a graduate school after I finish the undergraduate study.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more information, you can either see my [resume]({mingqianwu.github.io}/"Resume for work.pdf") or visit my [Linkedin page](www.linkedin.com/in/mingqian-wu-65718b14b).
+
+My Gihub page link is here.
 
 ### Markdown
 
