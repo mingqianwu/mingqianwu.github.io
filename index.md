@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![useful image]({{ mingqianwu.github.io }}/ProfessionalPicture.jpg)
+![useful image]({{ mingqianwu.github.io }}/ProfessionalPicture.jpg){:height="700px" width="400px"}
 
 You can use the [editor on GitHub](https://github.com/mingqianwu/mingqianwu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
