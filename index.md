@@ -7,6 +7,7 @@ For more information, you can either see my [resume]({{ mingqianwu.github.io }}/
 
 My Gihub profile link is [here](https://github.com/mingqianwu).
 
+## Blog Post
 ### Project I worked on
 Last year I participated in Research Experience for Undergraduate (REU) program. The research topic is to predict volatility of S&P 500 index using different approaches such as Black-Scholes implied volatility, GARCH model and regression-based methods. The performances and limitations of each method were also analyzed and studied. A report for this project is [here]({{ mingqianwu.github.io }}/REU%20report_final_Mingqian_Wu.pdf). 
 
@@ -29,5 +30,6 @@ plot(x=faithful$waiting,y=faithful$eruptions,main = "Waiting Time vs. Eruption T
 box()
 grid()
 ```
+
 
 
