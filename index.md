@@ -32,6 +32,6 @@ plot(x=faithful$waiting,y=faithful$eruptions,main = "Waiting Time vs. Eruption T
 box()
 grid()
 ```
-![useful image]({{ mingqianwu.github.io }}/plot.png)
+![plot]({{ mingqianwu.github.io }}/plot.png)
 
 
