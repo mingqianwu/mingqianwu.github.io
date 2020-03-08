@@ -1,32 +1,24 @@
 ## Welcome to My Personal Page
 ![useful image]({{ mingqianwu.github.io }}/ProfessionalPicture.jpg){:height="280px" width="210px"}
 
-My name is Mingqian Wu. I'm currently a senior in University of Illinois at Urbana-Champaign. My major is Industrial Engineering and I also have a minor in Statistics. I'm planning to study Quantitative Finance in a graduate school after I finish the undergraduate study.
+My name is Mingqian Wu. I'm currently a senior in University of Illinois at Urbana-Champaign. My major is Industrial Engineering and I also have a minor in Statistics. I plan to pursue Quantitative Finance in a graduate school after I finish my undergraduate study.
 
 For more information, you can either see my [resume]({{ mingqianwu.github.io }}/Resume%20for%20work.pdf) or visit my [Linkedin page](https://www.linkedin.com/in/mingqian-wu-65718b14b).
 
-My Gihub page link is [here](https://github.com/mingqianwu).
+My Gihub profile link is [here](https://github.com/mingqianwu).
 
-### Markdown
+### Current Course
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm currently taking STAT 385 Statistics Programming Methods. It is a course about programming in R. So far, we have learned many topics such as Data Type, Vectorizing and plotting. Here are some codes we learned: 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```{r}
+par(mfrow=c(1,2))
+hist(x=faithful$waiting,main = "Histogram of Waiting Time",xlab = "Waiting Time (mins)",ylab = "Density",border = "dodgerblue", probability = TRUE)
+box()
+grid()
+plot(x=faithful$waiting,y=faithful$eruptions,main = "Waiting Time vs. Eruption Time",col="blue",xlab = "Waiting Time (min)",ylab = "Erupyion Time (min)",pch=16)
+box()
+grid()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
