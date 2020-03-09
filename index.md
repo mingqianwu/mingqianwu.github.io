@@ -22,12 +22,12 @@ vec[vec<0] <- vec[vec<0]*-1
 vec
 [1]  1  2  3  4  5  6  7  8  9 10
 ```
-```
+```{r}
 vec[vec<5] <- vec[vec<5]*2
 vec
 [1]  2  4  6  8  5  6  7  8  9 10
 ```
-```
+```{r}
 # plot a histogram and a scatter as a 1*2 matrix
 par(mfrow=c(1,2))
 hist(x=faithful$waiting,main = "Histogram of Waiting Time",xlab = "Waiting Time (mins)",ylab = "Density",border = "dodgerblue", probability = TRUE)
