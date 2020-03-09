@@ -15,6 +15,8 @@ Last year I participated in Research Experience for Undergraduate (REU) program.
 
 I'm currently taking STAT 385 Statistics Programming Methods. It is a course about programming in R. So far, we have learned many topics such as Data Type, Vectorizing and plotting. Here are some codes we learned: 
 
+<a src="https://github.com/mingqianwu/mingqianwu.github.io/blob/master/Midterm.html"></a>
+
 ```{r}
 # Vectorize
 vec <- c(1, -2, 3, -4, 5, -6, 7, -8, 9, -10)
