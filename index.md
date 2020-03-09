@@ -15,16 +15,19 @@ Last year I participated in Research Experience for Undergraduate (REU) program.
 
 I'm currently taking STAT 385 Statistics Programming Methods. It is a course about programming in R. So far, we have learned many topics such as Data Type, Vectorizing and plotting. Here are some codes we learned: 
 
-<a src="https://github.com/mingqianwu/mingqianwu.github.io/blob/master/Midterm.html"></a>
-
 ```{r}
 # Vectorize
 vec <- c(1, -2, 3, -4, 5, -6, 7, -8, 9, -10)
 vec[vec<0] <- vec[vec<0]*-1
+vec
+[1]  1  2  3  4  5  6  7  8  9 10
+```
+```
 vec[vec<5] <- vec[vec<5]*2
 vec
-# [1]  2  4  6  8  5  6  7  8  9 10
-
+[1]  2  4  6  8  5  6  7  8  9 10
+```
+```
 # plot a histogram and a scatter as a 1*2 matrix
 par(mfrow=c(1,2))
 hist(x=faithful$waiting,main = "Histogram of Waiting Time",xlab = "Waiting Time (mins)",ylab = "Density",border = "dodgerblue", probability = TRUE)
